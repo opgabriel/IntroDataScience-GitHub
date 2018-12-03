@@ -1,0 +1,13 @@
+Reading graph...
+521869
+Executing MHRW...
+Writing sample network...
+Grau da rede: 905420
+Grau médio: 1.4131907375150619
+Nodes: 640692
+Edges: 452710
+Density: 2.205729029305955e-06
+Average Clustering: 0.0652320719888289
+Generating giant component...
+Nodes Giant: 209
+Edges Giant: 209
